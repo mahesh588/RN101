@@ -1,9 +1,9 @@
 # Workshop
 
-##Problem 1
+## Problem 1
 Create a Sign Up Screen according to SignUpProject/UX/SignUpScreen.png. 
 
-##Problem 2
+## Problem 2
 On Click of Sign In button, do the following validation:
 * Username should not be empty
 * Password should be minimym 8 char
